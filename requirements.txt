@@ -1,4 +1,4 @@
-python-telegram-bot
+python-telegram-bot==20.4
 requests
 opencv-python
 ffmpeg-python
