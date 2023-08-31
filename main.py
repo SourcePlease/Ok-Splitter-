@@ -1,7 +1,7 @@
 import requests
 import random
 import string
-from telegram import ChatAction, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
+from telegram import ChatActionEnum, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaDocument
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackQueryHandler
 
 
